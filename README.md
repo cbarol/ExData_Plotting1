@@ -1,5 +1,13 @@
 ## Introduction
 
+This complements the original README file.
+4 plots with their respective code have been included in this repository.
+The basic code is similar for the four plots. The main difference is only
+when the plot is created.
+
+The code is fully commented.
+
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
